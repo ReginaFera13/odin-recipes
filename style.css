@@ -61,3 +61,7 @@ div img{
     width: 420px;
     height: 1507px;
 }
+
+.left img {
+    border-radius: 10px;
+}
