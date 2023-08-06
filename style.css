@@ -52,3 +52,12 @@ div img{
     width: 400px;
     text-align: center;
 }
+
+.left{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding-left: 30px;
+    width: 420px;
+    height: 1507px;
+}
