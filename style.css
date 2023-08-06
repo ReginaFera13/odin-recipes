@@ -43,3 +43,12 @@ div img{
     width: 350px;
     height: 500px;
 }
+
+.item{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    width: 400px;
+    text-align: center;
+}
