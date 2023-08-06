@@ -65,3 +65,8 @@ div img{
 .left img {
     border-radius: 10px;
 }
+
+.content{
+    gap: 40px;
+    display: flex;
+}
