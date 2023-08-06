@@ -88,3 +88,10 @@ ul{
     border: 1px solid rgb(1, 90, 5);
     height: 550px;
 }
+
+.ingredients-container{
+    border-radius: 10px;
+    background-color: rgb(1, 90, 5);
+    padding: 20px;
+    flex-grow: 3;
+}
