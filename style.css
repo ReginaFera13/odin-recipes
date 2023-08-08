@@ -151,7 +151,8 @@ p{
     border-radius: 10px;
     background-color: lightgreen;
     padding: 20px;
-    flex-grow: 3;
+    flex-grow: 1;
+    display: flex;
 }
 
 .right-top,
