@@ -99,6 +99,7 @@ div img{
 .recipe-header{
     display: flex;
     flex-direction: row;
+    gap: 20px;
     background-color: lightgreen;
 }
 
