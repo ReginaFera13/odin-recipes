@@ -28,6 +28,7 @@ a{
     text-decoration: none;
     background-color: lightgreen;
     width: fit-content;
+    margin-right: auto;
 }
 
 .heading,
@@ -105,14 +106,15 @@ div img{
     border-radius: 10px;
     padding: 10px;
     background-color: lightgreen;
-    justify-content: flex-start;
+    justify-content: center;
     align-content: center;
     align-items: center;
 }
 
 .recipe-title{
-    justify-self: center;
+    margin: auto;
 }
+
 
 .content-body{
     display: flex;
