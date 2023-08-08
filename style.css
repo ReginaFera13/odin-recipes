@@ -1,6 +1,6 @@
 *{
     border: 2px solid red;
-    background-color: lightgreen;
+    background-color: rgb(1, 90, 5);
 }
 
 html {
@@ -21,7 +21,7 @@ h1,h2,h3,h4,h5,h6{
 .heading{
     font-size: 62px;
     font-family: cursive;
-    background-color: rgb(1, 90, 5);
+    background-color:lightgreen;
 
 }
 
@@ -36,7 +36,7 @@ a{
 
 h3{
     font-weight: bold;
-    background-color: rgb(1, 90, 5);
+    background-color: lightgreen;
 }
 
 .recipe-details-item{
@@ -50,7 +50,7 @@ h3{
 .recipe-details-item,
 .recipe-details-label,
 .recipe-details-value{
-    background-color: rgb(1, 90, 5);
+    background-color: lightgreen;
 }
 
 .content{
@@ -73,7 +73,7 @@ div img{
     align-items: center;
     width: 400px;
     text-align: center;
-    background-color: rgb(1, 90, 5);
+    background-color: lightgreen;
     cursor: pointer;
     position: relative;
 }
@@ -108,7 +108,7 @@ div img{
 
 .right-top{
     border-radius: 10px;
-    border: 1px solid rgb(1, 90, 5);
+    border: 1px rgb(1, 90, 5);
     height: 500px;
 }
 
@@ -126,7 +126,7 @@ ul{
 
 .ingredients-container{
     border-radius: 10px;
-    background-color: rgb(1, 90, 5);
+    background-color: lightgreen;
     padding: 20px;
     flex-grow: 3;
 }
