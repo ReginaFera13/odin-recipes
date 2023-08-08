@@ -41,13 +41,14 @@ h3{
 
 .recipe-details-item{
     background-color: lightgreen; 
-    display: flexbox;
-    flex-direction: row;
+    display: flex;
+    justify-content: space-between;
 }
 
 .recipe-details-label,
 .recipe-details-value{
     background-color: lightgreen;
+    width: 32%;
 }
 
 .content{
