@@ -16,7 +16,6 @@ h1,h2,h3,h4,h5,h6{
     transition: all ease;
     border-radius: 15px;
     box-shadow: 0 0 5px rgb(1, 90, 5);
-    background-color: rgb(1, 90, 5);
 }
 
 .heading{
@@ -59,6 +58,7 @@ div img{
     align-items: center;
     width: 400px;
     text-align: center;
+    background-color: rgb(1, 90, 5);
 }
 
 .left{
