@@ -110,6 +110,9 @@ div img{
     align-items: center;
 }
 
+.recipe-title{
+    align-self: auto | flex-start | flex-end | center | baseline | stretch;
+}
 
 .content-body{
     display: flex;
