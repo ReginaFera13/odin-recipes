@@ -110,6 +110,11 @@ div img{
     flex-direction: column;
 }
 
+.content-recipe{
+    display: flex;
+    flex-direction: row;
+}
+
 .left{
     display: flex;
     flex-direction: column;
