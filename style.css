@@ -83,6 +83,7 @@ div img{
     background-color: lightgreen;
     cursor: pointer;
     position: relative;
+    padding: 20px;
 }
 
 .link{
