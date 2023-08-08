@@ -117,8 +117,12 @@ div img{
 .right-top{
     border-radius: 10px;
     border: 1px rgb(1, 90, 5);
-    height: 500px;
     background-color: lightgreen;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
 }
 
 ul{
@@ -143,15 +147,18 @@ p{
     margin-top: 20px;
     border-radius: 10px;
     border: 1px solid rgb(1, 90, 5);
-    height: 1000px;
     background-color: lightgreen;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
 }
 
 .ingredients-container{
     border-radius: 10px;
     background-color: lightgreen;
     padding: 20px;
-    flex-grow: 0;
     display: flex;
     flex-direction: column;
     justify-content: center;
