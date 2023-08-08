@@ -27,6 +27,7 @@ h1,h2,h3,h4,h5,h6{
 a{
     text-decoration: none;
     background-color: lightgreen;
+    width: fit-content;
 }
 
 .heading,
@@ -104,13 +105,11 @@ div img{
     border-radius: 10px;
     padding: 10px;
     background-color: lightgreen;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
 }
 
-.recipe-header.recipe-title{
-    align-items: center;
-    align-content: center;
-    justify-content: center;
-}
 
 .content-body{
     display: flex;
