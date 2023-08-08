@@ -31,15 +31,12 @@ h1,h2,h3,h4,h5,h6{
     align-items: center;
 }
 
-
-
 a{
     text-decoration: none;
     background-color: lightgreen;
     width: fit-content;
 }
 
-.heading,
 .recipe-title{
     text-align: center;
     background-color: lightgreen;
