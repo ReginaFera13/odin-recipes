@@ -107,7 +107,9 @@ div img{
 }
 
 .recipe-header.recipe-title{
-    align-self: center;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
 }
 
 .content-body{
