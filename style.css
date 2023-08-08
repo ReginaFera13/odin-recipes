@@ -47,6 +47,7 @@ h3{
     align-items: center;
     justify-content: space-around;
     align-content: space-around;
+    gap: 20px;
 }
 
 .recipe-details-item{
