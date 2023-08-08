@@ -108,11 +108,17 @@ div img{
 .content-body{
     display: flex;
     flex-direction: column;
+    gap: 20px;
+    border-radius: 10px;
+    padding: 10px;
 }
 
 .content-recipe{
     display: flex;
     flex-direction: row;
+    gap: 20px;
+    border-radius: 10px;
+    padding: 10px;
 }
 
 .left{
