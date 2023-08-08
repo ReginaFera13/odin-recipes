@@ -123,6 +123,14 @@ ol{
     background-color: lightgreen;
 }
 
+li{
+    background-color: lightgreen;
+}
+
+p{
+    background-color: lightgreen;
+}
+
 .steps-container{
     margin-top: 20px;
     border-radius: 10px;
