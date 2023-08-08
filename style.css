@@ -21,6 +21,7 @@ h1,h2,h3,h4,h5,h6{
 
 .heading{
     font-size: 62px;
+    font-family: cursive;
     background-color:lightgreen;
     display: flex;
     flex-direction: row;
