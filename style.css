@@ -47,6 +47,7 @@ h3{
     gap: 20px; 
 }
 
+.recipe-details-item,
 .recipe-details-label,
 .recipe-details-value{
     background-color: rgb(1, 90, 5);
