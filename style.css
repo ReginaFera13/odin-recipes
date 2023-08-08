@@ -39,6 +39,13 @@ h3{
     background-color: lightgreen;
 }
 
+.recipe-details{
+    background-color: lightgreen;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
 .recipe-details-item{
     background-color: lightgreen; 
     border: solid red;
