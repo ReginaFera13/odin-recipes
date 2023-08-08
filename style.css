@@ -105,6 +105,12 @@ div img{
     background-color: lightgreen;
 }
 
+.recipe-header h1{
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+}
+
 .content-body{
     display: flex;
     flex-direction: column;
