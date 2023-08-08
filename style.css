@@ -45,8 +45,8 @@ h3{
     flex-direction: row;
     flex-wrap: wrap;
     align-items: center;
-    justify-content: space-around;
-    align-content: stretch;
+    justify-content: center;
+    align-content: center;
 }
 
 .recipe-details-item{
@@ -57,6 +57,7 @@ h3{
 .recipe-details-label,
 .recipe-details-value{
     background-color: lightgreen;
+    width: 348px;
 }
 
 .content{
