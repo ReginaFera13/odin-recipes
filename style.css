@@ -64,6 +64,10 @@ a{
     width: 116px;
 }
 
+.recipe-details-label{
+    font-weight: bold;
+}
+
 .content{
     display: flex;
     flex-direction: row;
