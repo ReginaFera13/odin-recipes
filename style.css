@@ -41,6 +41,7 @@ h3{
 
 .recipe-details-item{
     background-color: lightgreen; 
+    border: solid red;
 }
 
 .recipe-details-label,
