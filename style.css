@@ -105,6 +105,11 @@ div img{
     background-color: lightgreen;
 }
 
+.content-body{
+    display: flex;
+    flex-direction: column;
+}
+
 .left{
     display: flex;
     flex-direction: column;
